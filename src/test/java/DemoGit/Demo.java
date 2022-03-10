@@ -7,6 +7,8 @@ public class Demo {
 	public void demo()
 	{
 		System.out.println("USer1-First commit");
+		
+		System.out.println("USer2-First commit");
 	}
 
 }
