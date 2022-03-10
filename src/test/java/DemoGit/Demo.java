@@ -11,6 +11,8 @@ public class Demo {
 		System.out.println("USer2-First commit");
 		
 		System.out.println("USer2-Second commit");
+		
+		System.out.println("This will raise confict");
 	}
 
 }
